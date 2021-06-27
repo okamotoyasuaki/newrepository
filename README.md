@@ -6,7 +6,8 @@ Portfolio Sample
 ## デモ
 [webサイトを見る](https://portfoliosampleyasu.herokuapp.com/)
 
-<img width="1050" alt="ポートフォリオサンプル" src="https://user-images.githubusercontent.com/83483826/123539504-0e89f600-d775-11eb-9f34-8fe98cb7f4c8.png">
+<img width="1257" alt="ポートフォリオサンプル" src="https://user-images.githubusercontent.com/83483826/123540689-3f6d2980-d77b-11eb-995d-7c3d1242c7a6.png">
+
 
 ## 利用している技術
 HTML / CSS
